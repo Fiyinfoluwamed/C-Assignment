@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--COUNTRIES DATABASE-->
+<Countries>
+  <Country Id="1" Name="CAMEROON" />
+  <Country Id="2" Name="UNITED KINGDOM" />
+  <Country Id="3" Name="COTE D'VOIRE" />
+</Countries>

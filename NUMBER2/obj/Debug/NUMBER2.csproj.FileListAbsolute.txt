@@ -1,0 +1,6 @@
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\bin\Debug\NUMBER2.exe.config
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\bin\Debug\NUMBER2.exe
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\bin\Debug\NUMBER2.pdb
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\obj\Debug\NUMBER2.csproj.CoreCompileInputs.cache
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\obj\Debug\NUMBER2.exe
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER2\obj\Debug\NUMBER2.pdb

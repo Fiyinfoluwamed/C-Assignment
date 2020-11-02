@@ -1,0 +1,7 @@
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\bin\Debug\NUMBER4.exe.config
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\bin\Debug\NUMBER4.exe
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\bin\Debug\NUMBER4.pdb
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\obj\Debug\NUMBER4.csprojAssemblyReference.cache
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\obj\Debug\NUMBER4.csproj.CoreCompileInputs.cache
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\obj\Debug\NUMBER4.exe
+C:\Users\fiyin\source\repos\EXAM_GT_CSHARP_CLASS_QUESTION5\NUMBER4\obj\Debug\NUMBER4.pdb
